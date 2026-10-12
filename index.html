@@ -1,32 +1,72 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Dev Events Radar Archive</title><link rel="stylesheet" href="style.css"></head><body>
-<h1>Dev Events Radar — Archive</h1><p class="muted">Daily digests of developer/tech events in Chennai, Bangalore, Dubai, Mumbai, Hyderabad and Singapore. Newest first. Event data: <a href="data/events.json">events.json</a> · <a href="data/series-checked.json">series-checked.json</a></p>
-<ul class="index">
-<!-- DIGESTS: add new entries at the top of this list -->
-<li><a href="digests/2026-10-12-1.html">Oct 12, 2026 (earlier run, 7:39 AM IST)</a></li>
-<li><a href="digests/2026-10-12.html">Oct 12, 2026 (10:45 AM IST run)</a></li>
-<li><a href="digests/2026-10-11.html">Oct 11, 2026</a></li>
-<li><a href="digests/2026-10-10.html">Oct 10, 2026</a></li>
-<li><a href="digests/2026-10-09.html">Oct 9, 2026</a></li>
-<li><a href="digests/2026-10-07.html">Oct 7, 2026</a></li>
-<li><a href="digests/2026-10-06.html">Oct 6, 2026</a></li>
-<li><a href="digests/2026-10-05.html">Oct 5, 2026</a></li>
-<li><a href="digests/2026-10-04.html">Oct 4, 2026</a></li>
-<li><a href="digests/2026-10-03.html">Oct 3, 2026</a></li>
-<li><a href="digests/2026-10-01.html">Oct 1, 2026</a></li>
-<li><a href="digests/2026-09-30.html">Sep 30, 2026</a></li>
-<li><a href="digests/2026-09-29.html">Sep 29, 2026</a></li>
-<li><a href="digests/2026-09-28.html">Sep 28, 2026</a></li>
-<li><a href="digests/2026-09-27.html">Sep 27, 2026</a></li>
-<li><a href="digests/2026-09-26.html">Sep 26, 2026</a></li>
-<li><a href="digests/2026-09-25.html">Sep 25, 2026</a></li>
-<li><a href="digests/2026-09-24.html">Sep 24, 2026</a></li>
-<li><a href="digests/2026-09-23.html">Sep 23, 2026</a></li>
-<li><a href="digests/2026-09-22.html">Sep 22, 2026</a></li>
-<li><a href="digests/2026-09-21.html">Sep 21, 2026</a></li>
-<li><a href="digests/2026-09-20.html">Sep 20, 2026</a></li>
-<li><a href="digests/2026-09-19.html">Sep 19, 2026</a></li>
-<li><a href="digests/2026-09-18.html">Sep 18, 2026</a></li>
-<li><a href="digests/2026-09-17.html">Sep 17, 2026</a></li>
-<li><a href="digests/2026-09-16.html">Sep 16, 2026</a></li>
-<li><a href="digests/2026-09-15.html">Sep 15, 2026</a></li>
-</ul></body></html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dev Events Radar — Dashboard</title>
+<style>
+:root{--bg:#f6f7fb;--card:#fff;--ink:#1c1f26;--mut:#6b7280;--acc:#2563eb;--line:#e5e7eb}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.45}
+header{background:#111827;color:#fff;padding:14px 18px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+header h1{font-size:1.2em;margin:0}header a{color:#c7d2fe;text-decoration:none;font-size:.95em}
+main{max-width:1000px;margin:0 auto;padding:14px}
+.muted{color:var(--mut);font-size:.85em}
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:2}
+.controls input,.controls select{padding:8px 10px;border:1px solid var(--line);border-radius:8px;font-size:.95em;background:#fff}
+.controls input{flex:1 1 220px}
+h2{font-size:1.05em;margin:22px 0 8px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:10px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.card.flag{border-left:4px solid #f59e0b}
+.card h3{font-size:1em;margin:0 0 4px}.card h3 a{color:var(--ink);text-decoration:none}.card h3 a:hover{color:var(--acc)}
+.meta{font-size:.85em;color:var(--mut)}.desc{font-size:.9em;margin:6px 0}
+.b{display:inline-block;font-size:.7em;font-weight:600;padding:2px 7px;border-radius:99px;margin-right:4px;vertical-align:middle}
+.new{background:#dcfce7;color:#166534}.fl{background:#fef3c7;color:#92400e}.cfp{background:#fee2e2;color:#991b1b}.tp{background:#eef2ff;color:#3730a3;font-weight:500}
+.ls{font-size:.75em}.ls.ok,.ls.fixed{color:#16a34a}.ls.uncertain{color:#d97706}.ls.broken{color:#dc2626}
+.cfpbox{background:#fff7ed;border:1px solid #fed7aa;border-radius:12px;padding:10px 14px}
+.cfpbox li{margin:4px 0}
+.empty{color:var(--mut);padding:10px}
+</style></head><body>
+<header><h1>📡 Dev Events Radar</h1><nav><a href="archive.html">Past digests</a> · <a href="data/events.json">events.json</a></nav></header>
+<main>
+<p class="muted">Upcoming developer & tech events in Chennai, Bangalore, Dubai, Mumbai, Hyderabad and Singapore. <span id="upd"></span></p>
+<div class="controls">
+<input id="q" type="search" placeholder="Search events, venues, topics…">
+<select id="city"><option value="">All cities</option></select>
+<select id="tier"><option value="">All tiers</option><option value="flagship">Flagship</option><option value="regular">Regular</option></select>
+<select id="topic"><option value="">All topics</option></select>
+<select id="sort"><option value="asc">Date: soonest first</option><option value="desc">Date: latest first</option></select>
+</div>
+<div id="cfps"></div>
+<h2>🔥 Flagship</h2><div id="flag" class="grid"></div>
+<h2>All upcoming events <span id="cnt" class="muted"></span></h2><div id="all" class="grid"></div>
+</main>
+<script>
+const TODAY=new Date(new Date().toLocaleString('en-US',{timeZone:'Asia/Kolkata'}));TODAY.setHours(0,0,0,0);
+const iso=d=>d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+const T=iso(TODAY);const days=(a,b)=>Math.round((new Date(a)-new Date(b))/864e5);
+const fmt=s=>new Date(s+'T00:00:00').toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'});
+const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const LS={ok:'● link ok',fixed:'● link fixed',uncertain:'● link unverified',broken:'● link broken'};
+let EV=[];
+function card(e){const nw=days(T,e.first_seen)<=3, cf=e.cfp_deadline&&e.cfp_deadline>=T;
+ const dt=e.start_date===e.end_date?fmt(e.start_date):fmt(e.start_date)+' – '+fmt(e.end_date);
+ return `<div class="card ${e.tier==='flagship'?'flag':''}"><h3>${nw?'<span class="b new">NEW</span>':''}${e.tier==='flagship'?'<span class="b fl">FLAGSHIP</span>':''}<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.name)}</a></h3>
+ <div class="meta">📅 ${dt} · 📍 ${esc(e.venue||e.city)}${e.city&&!(e.venue||'').includes(e.city)?' ('+esc(e.city)+')':''}</div>
+ <div class="desc">${esc(e.description)}</div>
+ <div>${(e.topics||[]).map(t=>`<span class="b tp">${t}</span>`).join('')}${cf?`<span class="b cfp">CFP until ${fmt(e.cfp_deadline)}</span>`:''}</div>
+ <div class="ls ${e.link_status}" title="checked ${e.link_checked||'?'}, dates verified ${e.date_verified||'?'}">${LS[e.link_status]||''} · checked ${e.link_checked||'?'}</div></div>`}
+function render(){const q=qv('q').toLowerCase(),c=qv('city'),t=qv('tier'),tp=qv('topic'),s=qv('sort');
+ let L=EV.filter(e=>(!c||e.city===c)&&(!t||e.tier===t)&&(!tp||(e.topics||[]).includes(tp))&&(!q||JSON.stringify([e.name,e.venue,e.city,e.description,e.topics]).toLowerCase().includes(q)));
+ L.sort((a,b)=>(a.start_date<b.start_date?-1:a.start_date>b.start_date?1:0)*(s==='asc'?1:-1));
+ const F=L.filter(e=>e.tier==='flagship'&&e.city&&!e.city.includes('outside'));
+ document.getElementById('flag').innerHTML=F.map(card).join('')||'<div class="empty">No flagship events match.</div>';
+ document.getElementById('all').innerHTML=L.filter(e=>!F.includes(e)).map(card).join('')||'<div class="empty">No events match.</div>';
+ document.getElementById('cnt').textContent='('+L.length+' shown)';}
+const qv=id=>document.getElementById(id).value;
+Promise.all([fetch('data/events.json',{cache:'no-cache'}).then(r=>r.json()),fetch('data/meta.json',{cache:'no-cache'}).then(r=>r.json()).catch(()=>({}))]).then(([ev,meta])=>{
+ EV=ev.filter(e=>e.end_date>=T);
+ document.getElementById('upd').textContent='Last updated: '+(meta.last_updated?new Date(meta.last_updated).toLocaleString('en-IN',{timeZone:'Asia/Kolkata',dateStyle:'medium',timeStyle:'short'})+' IST':'?')+' · '+EV.length+' upcoming events';
+ [...new Set(EV.map(e=>e.city).filter(Boolean))].sort().forEach(x=>city.add(new Option(x,x)));
+ [...new Set(EV.flatMap(e=>e.topics||[]))].sort().forEach(x=>topic.add(new Option(x,x)));
+ const C=EV.filter(e=>e.cfp_deadline&&e.cfp_deadline>=T).sort((a,b)=>a.cfp_deadline<b.cfp_deadline?-1:1);
+ if(C.length)document.getElementById('cfps').innerHTML='<div class="cfpbox"><b>📣 Open CFPs</b><ul>'+C.map(e=>{const d=days(e.cfp_deadline,T);return `<li>${d<=14?'<span class="b cfp">CLOSING SOON · '+d+'d</span>':''}<a href="${esc(e.url)}" target="_blank">${esc(e.name)}</a> — deadline <b>${fmt(e.cfp_deadline)}</b> (${esc(e.city)})</li>`}).join('')+'</ul></div>';
+ ['q','city','tier','topic','sort'].forEach(id=>document.getElementById(id).addEventListener('input',render));render();
+}).catch(err=>{document.getElementById('all').innerHTML='<div class="empty">Could not load events.json: '+err+'</div>'});
+</script></body></html>

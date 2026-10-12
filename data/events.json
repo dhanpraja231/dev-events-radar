@@ -1,1626 +1,2476 @@
 [
  {
+  "id": "tech-in-asia-conference-2026-09",
   "name": "Tech in Asia Conference 2026",
   "start_date": "2026-09-15",
   "end_date": "2026-09-16",
   "city": "Singapore",
   "venue": "Marina Bay Sands, Singapore",
   "tier": "flagship",
+  "topics": [
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "Happening today/tomorrow. 15th edition of Asia's flagship tech/startup media conference.",
   "url": "https://www.techinasia.com/conference",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-09-15",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-15"
  },
  {
+  "id": "gisec-global-2026-09",
   "name": "GISEC Global 2026",
   "start_date": "2026-09-16",
   "end_date": "2026-09-18",
   "city": "Dubai",
   "venue": "Dubai Exhibition Centre, Expo City Dubai",
   "tier": "flagship",
+  "topics": [
+   "cloud-devops",
+   "security"
+  ],
   "description": "Middle East's largest cybersecurity/infra-security event.",
   "url": "https://gisec.ae/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-16",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-16"
  },
  {
+  "id": "chennai-postgresql-meetup-6-2026-09",
   "name": "Chennai PostgreSQL MeetUp #6",
   "start_date": "2026-09-19",
   "end_date": "2026-09-19",
   "city": "Chennai",
   "venue": "Chennai",
   "tier": "regular",
+  "topics": [
+   "dev-tools"
+  ],
   "description": "Monthly Postgres meetup for local developers.",
   "url": "http://meetup.com",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-09-18",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "broken",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-18"
  },
  {
+  "id": "platform-engineering-for-production-agents-rootconf-hasgeek-workshop-2026-09",
   "name": "Platform Engineering for Production Agents (Rootconf/HasGeek workshop)",
   "start_date": "2026-09-19",
   "end_date": "2026-09-20",
   "city": "Bangalore",
   "venue": "Bangalore",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "product"
+  ],
   "description": "Hands-on workshop on platform engineering for AI agent systems.",
   "url": "https://hasgeek.com/rootconf/platform-engineering-for-production-agents/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-16",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-16"
  },
  {
+  "id": "producttank-chennai-2026-09",
   "name": "ProductTank Chennai",
   "start_date": "2026-09-19",
   "end_date": "2026-09-19",
   "city": "Chennai",
   "venue": "Chennai",
   "tier": "regular",
+  "topics": [
+   "open-source",
+   "product"
+  ],
   "description": "Community meetup for product managers/builders.",
   "url": "https://www.meetup.com/producttank-chennai/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-09-18",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-18"
  },
  {
+  "id": "gartner-data-analytics-summit-mumbai-2026-09",
   "name": "Gartner Data & Analytics Summit Mumbai 2026",
   "start_date": "2026-09-21",
   "end_date": "2026-09-22",
   "city": "Mumbai",
   "venue": "Grand Hyatt, Mumbai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "Gartner's premier India conference for CDAOs and data/AI leaders on AI, governance and data architecture strategy.",
   "url": "https://www.gartner.com/en/conferences/apac/data-analytics-india",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-09-21",
-  "times_listed": 4,
-  "cfp_deadline": null
+  "link_status": "uncertain",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-21"
  },
  {
+  "id": "unicorn-ai-summit-2026-09",
   "name": "Unicorn AI Summit",
   "start_date": "2026-09-21",
   "end_date": "2026-09-21",
   "city": "Bangalore",
   "venue": "Bengaluru",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "Evening conference for 500+ AI professionals with engineering talks from Indian unicorns and 50 AI startup demo booths.",
   "url": "https://luma.com/unicornsummit",
+  "cfp_deadline": null,
   "first_seen": "2026-09-19",
   "last_seen": "2026-09-19",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-19"
  },
  {
+  "id": "nvidia-ai-day-singapore-2026-09",
   "name": "NVIDIA AI Day Singapore 2026",
   "start_date": "2026-09-22",
   "end_date": "2026-09-23",
   "city": "Singapore",
   "venue": "Raffles City Convention Centre, Singapore",
   "tier": "regular",
+  "topics": [
+   "ai"
+  ],
   "description": "NVIDIA-run hands-on AI training and technical sessions.",
   "url": "https://www.nvidia.com/en-sg/ai-days/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-21",
   "last_seen": "2026-09-21",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-21"
  },
  {
+  "id": "asia-pe-vc-summit-2026-09",
   "name": "Asia PE-VC Summit 2026",
   "start_date": "2026-09-23",
   "end_date": "2026-09-24",
   "city": "Singapore",
   "venue": "Grand Copthorne Waterfront, Singapore",
   "tier": "regular",
+  "topics": [
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "Major PE/VC gathering, ~8,500 attendees.",
   "url": "https://events.dealstreetasia.com/sg-2026/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-20",
   "last_seen": "2026-09-20",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-20"
  },
  {
+  "id": "14th-middle-east-enterprise-ai-analytics-summit-2026-09",
   "name": "14th Middle East Enterprise AI & Analytics Summit",
   "start_date": "2026-09-24",
   "end_date": "2026-09-24",
   "city": "Dubai",
   "venue": "Dubai",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "Recurring enterprise-focused summit on applied AI and analytics strategy.",
   "url": "https://www.eventbrite.com/e/14th-middle-east-enterprise-ai-analytics-summit-tickets-1978203785775",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-09-23",
-  "times_listed": 5,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-23"
  },
  {
+  "id": "tie-women-asia-summit-2026-09",
   "name": "TiE Women Asia Summit 2026",
   "start_date": "2026-09-24",
   "end_date": "2026-09-26",
   "city": "Hyderabad",
   "venue": "Hyderabad",
   "tier": "regular",
+  "topics": [
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "TiE Hyderabad summit convening women entrepreneurs, investors, 25+ TiE chapters.",
   "url": "https://newsmeter.in/hyderabad/hyderabad-all-set-to-host-tie-women-asia-summit-2026-from-sep-24-200-biz-leaders-investors-to-join-774419",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-09-15",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-15"
  },
  {
+  "id": "the-great-product-festival-tgpf-2026-09",
   "name": "The Great Product Festival (TGPF) 2026",
   "start_date": "2026-09-25",
   "end_date": "2026-09-25",
   "city": "Bangalore",
   "venue": "Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "dev-tools",
+   "startups-vc",
+   "product",
+   "general-tech"
+  ],
   "description": "India's largest product/startup conference; 2,000+ product builders, 2 days, 4 tracks, workshops, hackathon.",
   "url": "https://www.startupgrantsindia.com/events/the-great-product-festival-tgpf-2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-09-22",
-  "times_listed": 5,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "ai-in-action-rag-chatbots-agents-with-mongodb-2026-09",
   "name": "AI in Action: RAG, Chatbots & Agents with MongoDB",
   "start_date": "2026-09-26",
   "end_date": "2026-09-26",
   "city": "Chennai",
   "venue": "Global Infocity Park, Perungudi",
   "tier": "regular",
+  "topics": [
+   "ai"
+  ],
   "description": "",
   "url": "https://www.meetup.com/mongodb-usergroup-chennai/events/316460911/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-22",
   "last_seen": "2026-09-22",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "chennai-reliability-engineering-meetup-2-2026-09",
   "name": "Chennai Reliability Engineering Meetup #2",
   "start_date": "2026-09-26",
   "end_date": "2026-09-26",
   "city": "Chennai",
   "venue": "Velachery",
   "tier": "regular",
+  "topics": [
+   "cloud-devops"
+  ],
   "description": "Local SRE/reliability-engineering meetup.",
   "url": "https://www.meetup.com/chennai-reliability-engineering/events/315876301/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-09-22",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "devfest-roadshow-all-about-data-gdg-cloud-chennai-2026-09",
   "name": "DevFest Roadshow - All About Data (GDG Cloud Chennai)",
   "start_date": "2026-09-26",
   "end_date": "2026-09-26",
   "city": "Chennai",
   "venue": "Venue TBD, Chennai",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "dev-tools",
+   "open-source"
+  ],
   "description": "Pre-DevFest community sessions: \"Code for Communities\" (applied AI for civic challenges) and \"All About Data\" (data engineering, cloud, agents).",
   "url": "https://gdg.community.dev/gdg-cloud-chennai/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-19",
   "last_seen": "2026-09-21",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-21"
  },
  {
+  "id": "indiafoss-2026-09",
   "name": "IndiaFOSS 2026",
   "start_date": "2026-09-26",
   "end_date": "2026-09-27",
   "city": "Bangalore",
   "venue": "NIMHANS Convention Centre",
   "tier": "flagship",
+  "topics": [
+   "open-source"
+  ],
   "description": "One of India's largest FOSS community gatherings, 2,500+ expected.",
   "url": "https://fossunited.org/indiafoss/2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-09-25",
-  "times_listed": 8,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-25"
  },
  {
+  "id": "mcp-community-connect-bengaluru-2026-09",
   "name": "MCP Community Connect - Bengaluru",
   "start_date": "2026-09-26",
   "end_date": "2026-09-26",
   "city": "Bangalore",
   "venue": "Samarthanam Auditorium, Bangalore",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "open-source",
+   "general-tech"
+  ],
   "description": "Full-day conference on Model Context Protocol, agent systems, MCP server design.",
   "url": "https://globalai.community/e/bd1o37ln",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-09-21",
-  "times_listed": 3,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-21"
  },
  {
+  "id": "microsoft-build-localhost-encore-chennai-2026-09",
   "name": "Microsoft Build //localhost Encore: Chennai",
   "start_date": "2026-09-26",
   "end_date": "2026-09-26",
   "city": "Chennai",
   "venue": "Perficient Inc., Guindy",
   "tier": "regular",
+  "topics": [
+   "general-tech"
+  ],
   "description": "",
   "url": "https://www.meetup.com/chennai-microsoft-azure-user-group/events/316314285/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-22",
   "last_seen": "2026-09-22",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "sap-inside-track-bengaluru-2026-09",
   "name": "SAP Inside Track Bengaluru 2026",
   "start_date": "2026-09-26",
   "end_date": "2026-09-26",
   "city": "Bangalore",
   "venue": "SAP Labs India Innovation Park",
   "tier": "regular",
+  "topics": [
+   "general-tech"
+  ],
   "description": "",
   "url": "https://sitblr.in/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-22",
   "last_seen": "2026-09-22",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "global-ai-conference-chennai-2026-09",
   "name": "Global AI Conference Chennai",
   "start_date": "2026-09-27",
   "end_date": "2026-09-27",
   "city": "Chennai",
   "venue": "Ramada Plaza by Wyndham, Guindy, Chennai",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "Free single-day conference with parallel talk and hands-on workshop tracks on AI frameworks, tools and platforms.",
   "url": "https://globalai.community/e/7f851feb",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-24",
-  "times_listed": 6,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-24"
  },
  {
+  "id": "tech-week-singapore-2026-09",
   "name": "Tech Week Singapore 2026",
   "start_date": "2026-09-29",
   "end_date": "2026-09-30",
   "city": "Singapore",
   "venue": "Singapore",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "security",
+   "general-tech"
+  ],
   "description": "Singapore's flagship enterprise tech event (IMDA-backed, ~28,000 attendees), spanning five co-located shows: Cloud & AI Infrastructure Asia, DevOps Live!, Cyber Security World Asia, Data Centre World Asia, and Big Data & AI World Asia.",
   "url": "https://www.singaporetechnologyweek.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-30",
-  "times_listed": 12,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-30"
  },
  {
+  "id": "aws-summit-dubai-2026-09",
   "name": "AWS Summit Dubai",
   "start_date": "2026-09-30",
   "end_date": "2026-09-30",
   "city": "Dubai",
   "venue": "Dubai World Trade Centre, Dubai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "general-tech"
+  ],
   "description": "AWS's flagship annual cloud & AI summit for the Middle East, with keynotes, technical tracks and partner showcases.",
   "url": "https://aws.amazon.com/events/summits/dubai/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-09-30",
-  "times_listed": 11,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-30"
  },
  {
+  "id": "elastic-on-mumbai-2026-09",
   "name": "Elastic{ON} Mumbai 2026",
   "start_date": "2026-09-30",
   "end_date": "2026-09-30",
   "city": "Mumbai",
   "venue": "JW Marriott Mumbai Sahar",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "security"
+  ],
   "description": "Elastic's official city stop of its global ElasticON tour: search, agentic AI, observability, security.",
   "url": "https://www.elastic.co/events/elasticon/mumbai",
+  "cfp_deadline": null,
   "first_seen": "2026-09-20",
   "last_seen": "2026-09-22",
-  "times_listed": 3,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "middle-east-agentic-ai-forum-meaaf-uae-2026-09",
   "name": "Middle East Agentic AI Forum (MEAAF) UAE 2026",
   "start_date": "2026-09-30",
   "end_date": "2026-09-30",
   "city": "Dubai",
   "venue": "Conrad Dubai",
   "tier": "regular",
+  "topics": [
+   "ai"
+  ],
   "description": "",
   "url": "https://luma.com/l7y1r5bn",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-22",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "from-lab-to-venture-scale-building-scaling-hardware-startups-2026-10",
   "name": "From Lab to Venture Scale: Building & Scaling Hardware Startups",
   "start_date": "2026-10-01",
   "end_date": "2026-10-01",
   "city": "Chennai",
   "venue": "Anna University, Chennai (hosted by NSRCEL, IIM Bangalore)",
   "tier": "flagship",
+  "topics": [
+   "startups-vc"
+  ],
   "description": "Panel/workshop on taking hardware startups from prototype to venture scale.",
   "url": "",
+  "cfp_deadline": null,
   "first_seen": "2026-09-29",
   "last_seen": "2026-09-29",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "broken",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-29"
  },
  {
+  "id": "hacktoberfest-meetup-bengaluru-x-failproofai-2026-10",
   "name": "Hacktoberfest Meetup Bengaluru x FailproofAI",
   "start_date": "2026-10-01",
   "end_date": "2026-10-01",
   "city": "Bangalore",
   "venue": "FailproofAI HQ",
   "tier": "regular",
+  "topics": [
+   "general-tech"
+  ],
   "description": "",
   "url": "https://www.b2bangalore.com/hackathons-bangalore",
+  "cfp_deadline": null,
   "first_seen": "2026-09-22",
   "last_seen": "2026-09-22",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "koncept-conference-dubai-edition-2026-10",
   "name": "Koncept Conference 2026 (Dubai Edition)",
   "start_date": "2026-10-01",
   "end_date": "2026-10-02",
   "city": "Dubai",
   "venue": "Sheraton Grand Hotel, Dubai",
   "tier": "flagship",
+  "topics": [
+   "general-tech"
+  ],
   "description": "General tech/innovation leadership conference on technology and human-tech collaboration.",
   "url": "https://www.konceptconference.com/dubai-edition",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-09-28",
-  "times_listed": 6,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-28"
  },
  {
+  "id": "aws-community-day-uae-2026-10",
   "name": "AWS Community Day UAE 2026",
   "start_date": "2026-10-03",
   "end_date": "2026-10-03",
   "city": "Dubai",
   "venue": "Dubai",
   "tier": "flagship",
+  "topics": [
+   "cloud-devops",
+   "open-source",
+   "general-tech"
+  ],
   "description": "Community-run, full-day AWS/cloud conference — billed as the largest AWS Community Day in MENA.",
   "url": "https://www.meetup.com/aws-dubai/events/316207747/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-03",
-  "times_listed": 11,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-03"
  },
  {
+  "id": "hacktoberfest-hack-day-bengaluru-2026-10",
   "name": "Hacktoberfest Hack Day Bengaluru",
   "start_date": "2026-10-04",
   "end_date": "2026-10-04",
   "city": "Bangalore",
   "venue": "HSR Layout, Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "dev-tools"
+  ],
   "description": "Open-source/AI mini-hackathon organized by Major League Hacking.",
   "url": "https://events.mlh.com/events/14888-hacktoberfest-hack-day-bengaluru",
+  "cfp_deadline": null,
   "first_seen": "2026-09-29",
   "last_seen": "2026-09-29",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-29"
  },
  {
+  "id": "ai-tinkerers-dubai-meetup-2-october-2026-10",
   "name": "AI Tinkerers Dubai Meetup #2 (October)",
   "start_date": "2026-10-05",
   "end_date": "2026-10-05",
   "city": "Dubai",
   "venue": "Dubai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "open-source"
+  ],
   "description": "Community meetup where local AI builders demo hands-on projects with live Q&A.",
   "url": "https://dubai.aitinkerers.org/p/ai-tinkerers-dubai-meetup-2-october",
+  "cfp_deadline": null,
   "first_seen": "2026-09-20",
   "last_seen": "2026-09-30",
-  "times_listed": 3,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-30"
  },
  {
+  "id": "gartner-cio-it-executive-conference-2026-10",
   "name": "Gartner CIO & IT Executive Conference 2026",
   "start_date": "2026-10-05",
   "end_date": "2026-10-07",
   "city": "Dubai",
   "venue": "Grand Hyatt Dubai",
   "tier": "regular",
+  "topics": [
+   "general-tech"
+  ],
   "description": "CIO-level leadership and IT strategy conference.",
   "url": "https://www.gartner.com/en/conferences/emea/cio-uae",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-09-22",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "uncertain",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "ai-everything-global-2026-10",
   "name": "AI Everything Global 2026",
   "start_date": "2026-10-06",
   "end_date": "2026-10-07",
   "city": "",
   "venue": "ADNEC, Abu Dhabi (UAE-wide)",
   "tier": "flagship",
+  "topics": [
+   "ai"
+  ],
   "description": "World's largest AI event; global AI vendors, government and enterprise leaders.",
   "url": "https://www.aieverythingabudhabi.com/home",
+  "cfp_deadline": null,
   "first_seen": "2026-09-20",
   "last_seen": "2026-09-20",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-20"
  },
  {
+  "id": "elevenlabs-summit-bengaluru-2026-10",
   "name": "ElevenLabs Summit Bengaluru",
   "start_date": "2026-10-06",
   "end_date": "2026-10-06",
   "city": "Bangalore",
   "venue": "The Leela Bhartiya",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "One-day voice-AI conference by ElevenLabs, new model previews and agent/voice demos.",
   "url": "https://events.elevenlabs.io/elevenlabssummitbengaluru",
+  "cfp_deadline": null,
   "first_seen": "2026-09-27",
   "last_seen": "2026-10-03",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-03"
  },
  {
+  "id": "servicenow-world-forum-mumbai-2026-10",
   "name": "ServiceNow World Forum Mumbai",
   "start_date": "2026-10-06",
   "end_date": "2026-10-06",
   "city": "Mumbai",
   "venue": "Jio World Centre, BKC, Mumbai",
   "tier": "regular",
+  "topics": [
+   "ai"
+  ],
   "description": "ServiceNow's flagship regional roadshow stop — keynotes, hands-on AI labs, enterprise AI/automation sessions.",
   "url": "https://www.servicenow.com/events/world-forum/mumbai.html",
+  "cfp_deadline": null,
   "first_seen": "2026-10-01",
   "last_seen": "2026-10-06",
-  "times_listed": 3,
-  "cfp_deadline": null
+  "link_status": "uncertain",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-06"
  },
  {
+  "id": "bengaluru-venture-capital-world-summit-2026-10",
   "name": "Bengaluru 2026 Venture Capital World Summit",
   "start_date": "2026-10-07",
   "end_date": "2026-10-07",
   "city": "Bangalore",
   "venue": "COWRKS, MG Road",
   "tier": "regular",
+  "topics": [
+   "dev-tools",
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "Investor–entrepreneur networking conference focused on capital-raising and scaling.",
   "url": "https://vcworldsummit.com/tickets/bengaluru-2026/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-01",
-  "times_listed": 4,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-01"
  },
  {
+  "id": "cypher-ai-conference-india-2026-10",
   "name": "Cypher 2026 (AI Conference India)",
   "start_date": "2026-10-07",
   "end_date": "2026-10-09",
   "city": "Bangalore",
   "venue": "KTPO Whitefield, Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "India's biggest AI conference (10th edition), 5,000+ attendees, 150+ speakers across AI/ML tracks.",
   "url": "https://cypher.analyticsindiamag.com/ai-conference-india-2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-06",
-  "times_listed": 19,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-06"
  },
  {
+  "id": "open-source-india-osi-2026-10",
   "name": "Open Source India (OSI) 2026",
   "start_date": "2026-10-07",
   "end_date": "2026-10-08",
   "city": "Bangalore",
   "venue": "NIMHANS Convention Centre, Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "open-source",
+   "general-tech"
+  ],
   "description": "23rd edition of Asia's leading open-source conference, 500+ delegates, open-source + AI focus.",
   "url": "https://www.opensourceindia.in/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-07",
-  "times_listed": 21,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-07"
  },
  {
+  "id": "token2049-singapore-2026-10",
   "name": "TOKEN2049 Singapore",
   "start_date": "2026-10-07",
   "end_date": "2026-10-08",
   "city": "Singapore",
   "venue": "Marina Bay Sands, Singapore",
   "tier": "flagship",
+  "topics": [
+   "cloud-devops",
+   "startups-vc",
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "World's largest crypto/Web3 conference, ~25,000 expected attendees, strong institutional/VC presence (crypto/Web3-focused rather than core dev/cloud).",
   "url": "https://token2049.com/singapore/faqs",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-03",
-  "times_listed": 6,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-03"
  },
  {
+  "id": "world-ai-expo-dubai-2026-10",
   "name": "World AI Expo Dubai 2026",
   "start_date": "2026-10-07",
   "end_date": "2026-10-07",
   "city": "Dubai",
   "venue": "Mövenpick Grand Al Bustan Hotel, Dubai",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "AI conference, expo and summit gathering leaders, entrepreneurs and investors. (Moderate confidence — verified via one aggregator source only; double-check before making plans.)",
   "url": "https://worldaiexpo.io/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-09-24",
-  "times_listed": 4,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-24"
  },
  {
+  "id": "cloud-native-chennai-meetup-2026-10",
   "name": "Cloud Native Chennai Meetup",
   "start_date": "2026-10-10",
   "end_date": "2026-10-10",
   "city": "Chennai",
   "venue": "Perungudi, Chennai",
   "tier": "regular",
+  "topics": [
+   "cloud-devops",
+   "open-source"
+  ],
   "description": "Community meetup for cloud-native/Kubernetes practitioners.",
   "url": "https://github.com/FOSSUChennai/Communities",
+  "cfp_deadline": null,
   "first_seen": "2026-09-30",
   "last_seen": "2026-09-30",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-30"
  },
  {
+  "id": "dev-days-chennai-2026-10",
   "name": "Dev Days | Chennai",
   "start_date": "2026-10-10",
   "end_date": "2026-10-10",
   "city": "Chennai",
   "venue": "JPOWER4 Technologies, Perumbakkam, Chennai",
   "tier": "flagship",
+  "topics": [
+   "dev-tools",
+   "open-source"
+  ],
   "description": "Community-led, in-person developer workshop (part of a global \"Dev Days\" tour) focused on hands-on GitHub Copilot app/CLI workflows.",
   "url": "https://sessionize.com/dev-days-chennai-india",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-10-09",
-  "times_listed": 11,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-09"
  },
  {
+  "id": "devfest-on-campus-chennai-2026-10",
   "name": "DevFest on Campus Chennai",
   "start_date": "2026-10-10",
   "end_date": "2026-10-10",
   "city": "Chennai",
   "venue": "Chennai",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "dev-tools"
+  ],
   "description": "Student-focused GDG Chennai hackathon building AI-based solutions to real-world public service challenges.",
   "url": "https://gdg.community.dev/gdg-chennai/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-04",
   "last_seen": "2026-10-04",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-04"
  },
  {
+  "id": "from-search-to-agents-building-rag-and-agentic-workflows-2026-10",
   "name": "From Search to Agents: Building RAG and Agentic Workflows",
   "start_date": "2026-10-10",
   "end_date": "2026-10-10",
   "city": "Chennai",
   "venue": "Chennai",
   "tier": "flagship",
+  "topics": [
+   "ai"
+  ],
   "description": "Workshop on RAG and agentic AI workflows (186 RSVPs).",
   "url": "",
+  "cfp_deadline": null,
   "first_seen": "2026-09-29",
   "last_seen": "2026-09-29",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "broken",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-29"
  },
  {
+  "id": "odoo-x-nmit-bangalore-hackathon-2026-10",
   "name": "Odoo x NMIT Bangalore Hackathon 2026",
   "start_date": "2026-10-10",
   "end_date": "2026-10-11",
   "city": "Bangalore",
   "venue": "NMIT Campus, Yelahanka",
   "tier": "regular",
+  "topics": [
+   "dev-tools"
+  ],
   "description": "",
   "url": "https://hackathon.odoo.com/event/odoo-x-nmit-bangalore-hackathon-2026-38/register",
+  "cfp_deadline": null,
   "first_seen": "2026-10-01",
   "last_seen": "2026-10-01",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-01"
  },
  {
+  "id": "replit-buildathon-2026-10",
   "name": "Replit Buildathon",
   "start_date": "2026-10-10",
   "end_date": "2026-10-10",
   "city": "Chennai",
   "venue": "Chennai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "dev-tools"
+  ],
   "description": "Hackathon for engineers building apps and agents with Replit.",
   "url": "",
+  "cfp_deadline": null,
   "first_seen": "2026-09-29",
   "last_seen": "2026-09-29",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "broken",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-29"
  },
  {
+  "id": "workshop-agent-harness-2026-10",
   "name": "Workshop: Agent Harness",
   "start_date": "2026-10-10",
   "end_date": "2026-10-10",
   "city": "Chennai",
   "venue": "HealthPilot.AI, Nungambakkam",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "cloud-devops"
+  ],
   "description": "Hands-on workshop on AI agent harnesses with Azure tooling, ~150 attendees.",
   "url": "https://www.meetup.com/chennai-microsoft-azure-user-group/events/316130634/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-09-22",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "govware-singapore-international-cyber-week-sicw-2026-10",
   "name": "GovWare / Singapore International Cyber Week (SICW) 2026",
   "start_date": "2026-10-13",
   "end_date": "2026-10-15",
   "city": "Singapore",
   "venue": "Singapore",
   "tier": "flagship",
+  "topics": [
+   "security",
+   "general-tech"
+  ],
   "description": "Singapore's flagship cybersecurity conference, part of Singapore International Cyber Week.",
   "url": "https://www.sicw.gov.sg/agenda/govware-conference-exhibition-2026/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-22",
   "last_seen": "2026-10-04",
-  "times_listed": 3,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-04"
  },
  {
+  "id": "ibm-think-on-tour-2026-10",
   "name": "IBM Think on Tour",
   "start_date": "2026-10-13",
   "end_date": "2026-10-13",
   "city": "Mumbai",
   "venue": "Mumbai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops"
+  ],
   "description": "IBM's regional flagship enterprise AI/tech tour stop — enterprise AI adoption, hybrid cloud, digital transformation.",
   "url": "https://www.ibm.com/events/think/mumbai",
+  "cfp_deadline": null,
   "first_seen": "2026-09-22",
   "last_seen": "2026-10-04",
-  "times_listed": 6,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-04"
  },
  {
+  "id": "superreturn-middle-east-2026-10",
   "name": "SuperReturn Middle East",
   "start_date": "2026-10-13",
   "end_date": "2026-10-15",
   "city": "Dubai",
   "venue": "Ritz-Carlton DIFC, Dubai",
   "tier": "flagship",
+  "topics": [
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "Major global PE/VC investor conference.",
   "url": "https://informaconnect.com/superreturn-me/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-09-18",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-18"
  },
  {
+  "id": "techsparks-2026-10",
   "name": "TechSparks 2026",
   "start_date": "2026-10-13",
   "end_date": "2026-10-15",
   "city": "Bangalore",
   "venue": "Taj Yeshwantpur, Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "startups-vc",
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "YourStory's flagship India startup/tech conference (\"The New Tech Order\"), bringing together top founders, VCs and policymakers.",
   "url": "https://techsparks.yourstory.com",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-10-12",
-  "times_listed": 5,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "techx-26-ieee-cs-2026-10",
   "name": "TechX'26 (IEEE CS)",
   "start_date": "2026-10-13",
   "end_date": "2026-10-14",
   "city": "Chennai",
   "venue": "Sri Sai Ram Institute of Technology, Chennai",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "dev-tools"
+  ],
   "description": "24-hr hackathon, CTF, Edge AI/TinyML workshop.",
   "url": "https://www.techxmadras26.in/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "cognitionx-emirates-2026-10",
   "name": "CognitionX Emirates 2026",
   "start_date": "2026-10-14",
   "end_date": "2026-10-15",
   "city": "Dubai",
   "venue": "Dtec, Dubai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "security",
+   "general-tech"
+  ],
   "description": "Practitioner-focused conference on AI, cloud, security and modern software engineering.",
   "url": "https://sessionize.com/cognitionx-emirates-2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-11",
-  "times_listed": 13,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-11"
  },
  {
+  "id": "data-innovation-summit-mea-2026-10",
   "name": "Data Innovation Summit MEA 2026",
   "start_date": "2026-10-14",
   "end_date": "2026-10-15",
   "city": "Dubai",
   "venue": "JW Marriott Marina, Dubai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "Regional data and analytics summit for the Middle East & Africa.",
   "url": "https://infosec-conferences.com/event/20261014-data-innovation-summit-mea-2026/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-10-11",
-  "times_listed": 8,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-11"
  },
  {
+  "id": "world-ai-summit-2026-10",
   "name": "World AI Summit 2026",
   "start_date": "2026-10-14",
   "end_date": "2026-10-15",
   "city": "Bangalore",
   "venue": "Bengaluru",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "AI-focused gathering on generative AI and agents.",
   "url": "https://www.startupgrantsindia.com/events/world-ai-summit-2026",
+  "cfp_deadline": null,
   "first_seen": "2026-10-11",
   "last_seen": "2026-10-11",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-11"
  },
  {
+  "id": "producttank-dubai-2026-10",
   "name": "ProductTank Dubai",
   "start_date": "2026-10-15",
   "end_date": "2026-10-15",
   "city": "Dubai",
   "venue": "in5 Tech, Dubai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "product"
+  ],
   "description": "product-management meetup on AI in software development.",
   "url": "https://meetup.com/ProductTank-Dubai",
+  "cfp_deadline": null,
   "first_seen": "2026-09-20",
   "last_seen": "2026-10-11",
-  "times_listed": 4,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-11"
  },
  {
+  "id": "x-ops-conference-dubai-2026-10",
   "name": "X-Ops Conference Dubai 2026",
   "start_date": "2026-10-15",
   "end_date": "2026-10-17",
   "city": "Dubai",
   "venue": "Dubai, UAE",
   "tier": "regular",
+  "topics": [
+   "cloud-devops",
+   "open-source",
+   "general-tech"
+  ],
   "description": "DevOps/CI-CD/Kubernetes community conference organized by the Dubai DevOps (DubOps) community.",
   "url": "https://sessionize.com/x-ops-conference-2026",
+  "cfp_deadline": null,
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-09",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-09"
  },
  {
+  "id": "bengaluru-startup-meetup-north-bengaluru-edition-2026-10",
   "name": "Bengaluru Startup Meetup: North Bengaluru edition",
   "start_date": "2026-10-16",
   "end_date": "2026-10-16",
   "city": "Bangalore",
   "venue": "Enzyme BCIT, Bengaluru",
   "tier": "regular",
+  "topics": [
+   "startups-vc"
+  ],
   "description": "founder/startup networking meetup",
   "url": "https://sessionize.com/droidcon-india-2026/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "devday-exchange-bengaluru-2026-10",
   "name": "DevDay Exchange: Bengaluru",
   "start_date": "2026-10-16",
   "end_date": "2026-10-16",
   "city": "Bangalore",
   "venue": "Bengaluru",
   "tier": "regular",
+  "topics": [
+   "open-source"
+  ],
   "description": "community satellite of OpenAI's global DevDay Exchange",
   "url": "https://events.openai.com/devdayexchange2026/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "devfest-chennai-2026-10",
   "name": "DevFest Chennai 2026",
   "start_date": "2026-10-17",
   "end_date": "2026-10-17",
   "city": "Chennai",
   "venue": "IITM Research Park, Chennai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "dev-tools",
+   "startups-vc",
+   "security"
+  ],
   "description": "\"Chennai's biggest tech festival\" by GDG Chennai — talks, workshops, pitchathons and CTFs on AI-assisted development and security; 1,200+ expected attendees.",
   "url": "https://devfest.gdgchennai.in/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-05",
-  "times_listed": 19,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-05"
  },
  {
+  "id": "hacklantic-2026-10",
   "name": "HackLantic 2026",
   "start_date": "2026-10-20",
   "end_date": "2026-10-20",
   "city": "Chennai",
   "venue": "SIMATS Engineering, Chennai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "dev-tools",
+   "web3-fintech"
+  ],
   "description": "24-hour national AI/Web3 coding hackathon expecting 500+ developers.",
   "url": "https://www.hacklantic.in/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-27",
   "last_seen": "2026-09-30",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-30"
  },
  {
+  "id": "ai-builders-and-databases-dubai-clickhouse-2026-10",
   "name": "AI Builders and Databases Dubai (ClickHouse)",
   "start_date": "2026-10-22",
   "end_date": "2026-10-22",
   "city": "Dubai",
   "venue": "Media One Hotel, Dubai Media City",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "dev-tools",
+   "open-source"
+  ],
   "description": "Evening ClickHouse community meetup for data engineers/AI builders — talks and networking.",
   "url": "https://clickhouse.com/blog/202609-newsletter",
+  "cfp_deadline": null,
   "first_seen": "2026-09-24",
   "last_seen": "2026-09-24",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-24"
  },
  {
+  "id": "ainext-awards-conference-dubai-2026-10",
   "name": "AINext Awards & Conference Dubai 2026",
   "start_date": "2026-10-22",
   "end_date": "2026-10-22",
   "city": "Dubai",
   "venue": "Crowne Plaza Dubai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "Deira — AI business/tech conference with keynotes, panels and an awards ceremony.",
   "url": "https://dubai.ainextconference.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-10-03",
-  "times_listed": 9,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-03"
  },
  {
+  "id": "dubai-venture-capital-world-summit-2026-10",
   "name": "Dubai 2026 Venture Capital World Summit",
   "start_date": "2026-10-22",
   "end_date": "2026-10-22",
   "city": "Dubai",
   "venue": "One Za'abeel, Dubai. https://www.google.com/url?q=https://vcworldsummit.com/dubai-2026/&source=gmail&ust=1789609658945000&sa=E",
   "tier": "regular",
+  "topics": [
+   "dev-tools",
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "",
   "url": "https://dubaiaifestival.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-16",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-16"
  },
  {
+  "id": "red-hat-summit-connect-singapore-2026-10",
   "name": "Red Hat Summit: Connect Singapore 2026",
   "start_date": "2026-10-22",
   "end_date": "2026-10-22",
   "city": "Singapore",
   "venue": "Marina Bay Sands Expo & Convention Centre, Singapore",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "general-tech"
+  ],
   "description": "Red Hat/IBM enterprise IT event on hybrid cloud, automation, AI operationalization.",
   "url": "https://www.redhat.com/en/summit/connect/apac/singapore-2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-21",
   "last_seen": "2026-09-21",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-21"
  },
  {
+  "id": "growfirma-founders-meetup-2026-10",
   "name": "GrowFirma Founders Meetup",
   "start_date": "2026-10-23",
   "end_date": "2026-10-23",
   "city": "Chennai",
   "venue": "Chennai",
   "tier": "regular",
+  "topics": [
+   "startups-vc"
+  ],
   "description": "GrowFirma's first India gathering, networking for startup founders/operators.",
   "url": "https://www.startupgrantsindia.com/events/yearly-founders-meetup-in-india",
+  "cfp_deadline": null,
   "first_seen": "2026-10-01",
   "last_seen": "2026-10-11",
-  "times_listed": 4,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-11"
  },
  {
+  "id": "devfest-hyderabad-2026-10",
   "name": "DevFest Hyderabad 2026",
   "start_date": "2026-10-24",
   "end_date": "2026-10-24",
   "city": "Hyderabad",
   "venue": "JRC Conventions, Jubilee Hills, Hyderabad",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "dev-tools",
+   "open-source"
+  ],
   "description": "GDG Hyderabad's flagship annual community conference — AI, Cloud, Android and DevOps tracks; 3,000+ attendees expected.",
   "url": "https://gdg.community.dev/events/details/google-gdg-hyderabad-presents-devfest-hyderabad-2026/cohost-gdg-hyderabad/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-04",
-  "times_listed": 15,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-04"
  },
  {
+  "id": "gdg-devfest-dubai-2026-10",
   "name": "GDG DevFest Dubai 2026",
   "start_date": "2026-10-24",
   "end_date": "2026-10-24",
   "city": "Dubai",
   "venue": "Heriot-Watt University, Dubai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "dev-tools",
+   "open-source"
+  ],
   "description": "GDG Dubai's flagship annual community developer conference on Google technologies, AI and cloud development.",
   "url": "https://luma.com/fmy86dhe",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-10-12",
-  "times_listed": 5,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "techxconf-2026-10",
   "name": "TechXConf 2026",
   "start_date": "2026-10-24",
   "end_date": "2026-10-24",
   "city": "Chennai",
   "venue": "IIT Madras Research Park, Chennai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "general-tech"
+  ],
   "description": "\"Asia's Largest AI and Cloud Conference,\" 1,800+ attendees.",
   "url": "https://techxconf.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-10-12",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "aiccsa-2026-10",
   "name": "AICCSA 2026",
   "start_date": "2026-10-26",
   "end_date": "2026-10-29",
   "city": "Dubai",
   "venue": "University of Sharjah (near Dubai)",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "security",
+   "general-tech"
+  ],
   "description": "IEEE/ACS academic conference on computer systems, AI, cybersecurity and future networks.",
   "url": "https://aiccsa.net/AICCSA2026/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-22",
   "last_seen": "2026-10-03",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-03"
  },
  {
+  "id": "dcd-connect-mena-2026-10",
   "name": "DCD>Connect MENA 2026",
   "start_date": "2026-10-26",
   "end_date": "2026-10-27",
   "city": "Dubai",
   "venue": "Grand Hyatt Dubai",
   "tier": "flagship",
+  "topics": [
+   "cloud-devops",
+   "general-tech"
+  ],
   "description": "data-center and cloud infrastructure conference.",
   "url": "https://www.datacenterdynamics.com/en/dcdconnect-live/mena/2026/venue/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "times_listed": 3,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "dubai-ai-festival-2026-10",
   "name": "Dubai AI Festival 2026",
   "start_date": "2026-10-26",
   "end_date": "2026-10-27",
   "city": "Dubai",
   "venue": "Dubai World Trade Centre, Dubai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "general-tech"
+  ],
   "description": "AI-focused business/innovation festival covering AI governance, infrastructure and workforce transformation.",
   "url": "https://dubaicon.app/en/events/dubai-ai-festival-2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-10-12",
-  "times_listed": 11,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "forward-deploy-enterprise-ai-summit-2026-10",
   "name": "Forward Deploy Enterprise AI Summit 2026",
   "start_date": "2026-10-26",
   "end_date": "2026-10-28",
   "city": "Mumbai",
   "venue": "Jio World Convention Centre, Mumbai",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "Free multi-day summit on Fintech AI, Digital Public Infrastructure and South Asia AI expansion. Attendance figures unpublished; flagged due to major venue rather than confirmed scale.",
   "url": "https://www.eventbrite.com/e/forward-deploy-enterprise-ai-summit-2026-mumbai-tickets-1998134504090",
+  "cfp_deadline": null,
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-05",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-05"
  },
  {
+  "id": "black-hat-india-2026-10",
   "name": "Black Hat India 2026",
   "start_date": "2026-10-27",
   "end_date": "2026-10-30",
   "city": "Bangalore",
-  "venue": "Sheraton Grand, Bengaluru",
+  "venue": "Sheraton Grand, Brigade Gateway, Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "cloud-devops",
+   "security",
+   "general-tech"
+  ],
   "description": "India edition of the globally known Black Hat security conference — cybersecurity training and briefings for infra/cloud engineers.",
-  "url": "https://blackhat.com/upcoming.html",
+  "url": "https://www.blackhat-india.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-04",
-  "times_listed": 6,
-  "cfp_deadline": null
+  "link_status": "fixed",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "containerdays-ai-context-singapore-2026-10",
   "name": "ContainerDays & AI Context Singapore 2026",
   "start_date": "2026-10-27",
   "end_date": "2026-10-28",
   "city": "Singapore",
   "venue": "Suntec Singapore Convention & Exhibition Centre",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "cloud-devops"
+  ],
   "description": "Regional ContainerDays edition on Kubernetes, containers, DevOps, plus an AI Context track.",
   "url": "https://sessionize.com/containerdays-singapore-2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-20",
   "last_seen": "2026-10-11",
-  "times_listed": 5,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-11"
  },
  {
+  "id": "switch-singapore-week-of-innovation-and-technology-2026-10",
   "name": "SWITCH 2026 (Singapore Week of Innovation and Technology)",
   "start_date": "2026-10-27",
   "end_date": "2026-10-29",
   "city": "Singapore",
   "venue": "Marina Bay Sands, Singapore",
   "tier": "flagship",
+  "topics": [
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "Singapore's flagship innovation/startup/deep-tech week run by Enterprise Singapore; 2025 drew 25,000+ attendees.",
   "url": "https://hub.causo.ai/events/switch-singapore",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-12",
-  "times_listed": 18,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "igdc-india-game-developer-conference-2026-10",
   "name": "IGDC 2026 (India Game Developer Conference)",
   "start_date": "2026-10-28",
   "end_date": "2026-10-29",
   "city": "Chennai",
   "venue": "Chennai Trade Centre, Chennai",
   "tier": "flagship",
+  "topics": [
+   "dev-tools",
+   "general-tech"
+  ],
   "description": "18th edition; India's biggest and oldest game-developer conference, 10,000+ expected attendees, sessions plus awards.",
   "url": "https://indiagdc.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-10-03",
-  "times_listed": 8,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-03"
  },
  {
+  "id": "founding-mena-x-replit-dubai-hackathon-2026-10",
   "name": "Founding MENA x Replit: Dubai Hackathon",
   "start_date": "2026-10-31",
   "end_date": "2026-10-31",
   "city": "Dubai",
   "venue": "Dubai",
   "tier": "regular",
+  "topics": [
+   "dev-tools",
+   "startups-vc"
+  ],
   "description": "Launch a startup in a day; $50k prizes; apply by Oct 17.",
   "url": "https://luma.com/wzjsa324",
+  "cfp_deadline": null,
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "global-startup-summit-chennai-2026-10",
   "name": "Global Startup Summit 2026 Chennai",
   "start_date": "2026-10-31",
   "end_date": "2026-10-31",
   "city": "Chennai",
   "venue": "Holiday Inn Chennai OMR",
   "tier": "regular",
+  "topics": [
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "Multi-city founders/investor summit stop.",
   "url": "https://www.globalstartups.club/event-details-registration/global-startup-summit-2026-chennai",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-10-12",
-  "times_listed": 7,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "india-blockchain-week-2026-11",
   "name": "India Blockchain Week 2026",
   "start_date": "2026-11-01",
   "end_date": "2026-11-02",
   "city": "Mumbai",
   "venue": "Fairmont Mumbai",
   "tier": "flagship",
+  "topics": [
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "Major blockchain/crypto conference, now launching an institutional forum for larger industry players.",
   "url": "https://hub.causo.ai/events/india-blockchain-week",
+  "cfp_deadline": null,
   "first_seen": "2026-09-20",
   "last_seen": "2026-10-11",
-  "times_listed": 5,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-11"
  },
  {
+  "id": "ai-genesis-hackathon-dubai-finale-2026-11",
   "name": "AI Genesis 2026 Hackathon (Dubai finale)",
   "start_date": "2026-11-02",
   "end_date": "2026-11-03",
   "city": "Dubai",
   "venue": "/function1, Dubai",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "dev-tools"
+  ],
   "description": "Global hybrid AI hackathon; online Oct 26–Nov 2.",
   "url": "https://aiwhatson.com/event/ai-genesis-hackathon-2026-dubai",
+  "cfp_deadline": null,
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "dubai-fintech-summit-2026-11",
   "name": "Dubai FinTech Summit 2026",
   "start_date": "2026-11-02",
   "end_date": "2026-11-03",
   "city": "Dubai",
   "venue": "Madinat Jumeirah, Dubai",
   "tier": "flagship",
+  "topics": [
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "International fintech summit expecting 1,000+ global decision-makers and experts.",
   "url": "https://dubaifintechsummit.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-20",
   "last_seen": "2026-10-12",
-  "times_listed": 8,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "devcon-8-ethereum-foundation-2026-11",
   "name": "Devcon 8 (Ethereum Foundation)",
   "start_date": "2026-11-03",
   "end_date": "2026-11-06",
   "city": "Mumbai",
   "venue": "JIO World Centre, Mumbai",
   "tier": "flagship",
+  "topics": [
+   "dev-tools",
+   "startups-vc",
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "Ethereum Foundation's flagship global Web3/developer conference, drawing thousands of builders, researchers and founders.",
   "url": "https://blog.ethereum.org/2025/12/23/devcon-mumbai",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-12",
-  "times_listed": 14,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
-  "name": "STACK Conference 2026 (GovTech)",
-  "start_date": "2026-11-03",
-  "end_date": "2026-11-05",
-  "city": "Singapore",
-  "venue": "Singapore",
-  "tier": "flagship",
-  "description": "GovTech Singapore's flagship developer/tech conference, now with an inaugural STACK Expo.",
-  "url": "https://www.tech.gov.sg/events/stack-conference-2026/",
-  "first_seen": "2026-09-15",
-  "last_seen": "2026-10-12",
-  "times_listed": 10,
-  "cfp_deadline": null
- },
- {
+  "id": "hackfest-bangalore-sap-2026-11",
   "name": "Hackfest Bangalore 2026 (SAP)",
   "start_date": "2026-11-04",
   "end_date": "2026-11-04",
   "city": "Bangalore",
   "venue": "New Horizon College of Engineering, Bengaluru",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "dev-tools"
+  ],
   "description": "SAP-backed multi-college student hackathon on agentic AI.",
   "url": "https://events.sap.com/in-hackfest-bangalore-2026/en_us/home.html",
+  "cfp_deadline": null,
   "first_seen": "2026-10-05",
   "last_seen": "2026-10-05",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-05"
  },
  {
+  "id": "stack-conference-govtech-2026-11",
+  "name": "STACK Conference 2026 (GovTech)",
+  "start_date": "2026-11-04",
+  "end_date": "2026-11-05",
+  "city": "Singapore",
+  "venue": "Sands Expo & Convention Centre, Singapore (workshops Nov 3)",
+  "tier": "flagship",
+  "topics": [
+   "dev-tools",
+   "general-tech"
+  ],
+  "description": "GovTech Singapore's flagship developer/tech conference, now with an inaugural STACK Expo.",
+  "url": "https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2026/overview",
+  "cfp_deadline": null,
+  "first_seen": "2026-09-15",
+  "last_seen": "2026-10-12",
+  "link_status": "fixed",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
+ },
+ {
+  "id": "opentechsummit-india-fossasia-2026-11",
   "name": "OpenTechSummit India 2026 (FOSSASIA)",
   "start_date": "2026-11-05",
   "end_date": "2026-11-05",
   "city": "Mumbai",
   "venue": "Jio World Centre, Mumbai.",
   "tier": "regular",
+  "topics": [
+   "open-source",
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "(Devcon, Nov 3–6, is flagship-tier — see top section)",
   "url": "https://eventyay.com/fossasia/ots2026/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-07"
  },
  {
+  "id": "technext-ai-cybersecurity-summit-dubai-2026-11",
   "name": "TechNext AI & Cybersecurity Summit Dubai 2026",
   "start_date": "2026-11-05",
   "end_date": "2026-11-05",
   "city": "Dubai",
   "venue": "Dubai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "security",
+   "general-tech"
+  ],
   "description": "Summit on the intersection of AI and cybersecurity for enterprise practitioners.",
   "url": "https://www.eventbrite.com/e/technext-ai-cybersecurity-summit-dubai-2026-tickets-1983193032747",
+  "cfp_deadline": null,
   "first_seen": "2026-09-21",
   "last_seen": "2026-10-03",
-  "times_listed": 5,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-03"
  },
  {
+  "id": "unchained-summit-india-2026-11",
   "name": "Unchained Summit India 2026",
   "start_date": "2026-11-05",
   "end_date": "2026-11-06",
   "city": "Mumbai",
   "venue": "Mumbai (venue TBA)",
   "tier": "regular",
+  "topics": [
+   "cloud-devops",
+   "dev-tools",
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "Debut India edition splitting into a capital-markets/digital-assets day and a Web3-infrastructure/developer day; speakers from Binance, Coinbase, Parity Technologies.",
   "url": "https://unchainedsummit.com/india/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-22",
   "last_seen": "2026-09-24",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-24"
  },
  {
+  "id": "ethglobal-mumbai-2026-11",
   "name": "ETHGlobal Mumbai 2026",
   "start_date": "2026-11-06",
   "end_date": "2026-11-06",
   "city": "Mumbai",
   "venue": "Parinee Crescenzo, BKC, Mumbai",
   "tier": "regular",
+  "topics": [
+   "dev-tools",
+   "web3-fintech"
+  ],
   "description": "In-person Ethereum/blockchain hackathon from the ETHGlobal series, likely coinciding with Devcon 8.",
   "url": "https://ethglobal.com/events/mumbai/info/details",
+  "cfp_deadline": null,
   "first_seen": "2026-09-23",
   "last_seen": "2026-09-23",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-23"
  },
  {
+  "id": "experts-live-emirates-2026-11",
   "name": "Experts Live Emirates 2026",
   "start_date": "2026-11-11",
   "end_date": "2026-11-12",
   "city": "Dubai",
   "venue": "Dubai, UAE",
   "tier": "regular",
+  "topics": [
+   "cloud-devops",
+   "open-source",
+   "general-tech"
+  ],
   "description": "Community-run Microsoft technology conference (Azure, Microsoft 365, Power Platform) under the global Experts Live brand.",
   "url": "https://sessionize.com/ELUAE26/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-03",
   "last_seen": "2026-10-09",
-  "times_listed": 3,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-09"
  },
  {
+  "id": "future-world-expo-fte-dubai-2026-11",
   "name": "Future World Expo (FTE) Dubai 2026",
   "start_date": "2026-11-11",
   "end_date": "2026-11-12",
   "city": "Dubai",
   "venue": "Dubai World Trade Centre",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "security",
+   "general-tech"
+  ],
   "description": "Cross-industry tech expo covering AI, cloud, cybersecurity and innovation.",
   "url": "https://futuretechexpo.org/dubai/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-27",
   "last_seen": "2026-09-27",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-27"
  },
  {
-  "name": "BC Days Dubai 2026",
+  "id": "bc-day-dubai-2026-11",
+  "name": "BC Day Dubai 2026",
   "start_date": "2026-11-13",
   "end_date": "2026-11-13",
   "city": "Dubai",
-  "venue": "Microsoft Office, Dubai.",
+  "venue": "Microsoft Office, Dubai Internet City",
   "tier": "regular",
-  "description": "(GITEX Global and Expand North Star are flagship-tier — see top section)",
-  "url": "https://sessionize.com/bc-days-dubai-2026",
+  "topics": [
+   "ai",
+   "open-source",
+   "general-tech"
+  ],
+  "description": "One-day Microsoft Dynamics 365 Business Central community conference (AI, backend). CFP open on Sessionize until Oct 31.",
+  "url": "https://www.cfpradar.dev/cfp/bc-days-dubai-2026",
+  "cfp_deadline": "2026-10-31",
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-07",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "fixed",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "ubucon-india-2026-11",
   "name": "UbuCon India 2026",
   "start_date": "2026-11-14",
   "end_date": "2026-11-15",
   "city": "Bangalore",
   "venue": "Bengaluru. India's first UbuCon. https://www.google.com/url?q=https://events.canonical.com/event/157/&source=gmail&ust=1791426048210000&sa=E",
   "tier": "regular",
+  "topics": [
+   "dev-tools",
+   "open-source",
+   "general-tech"
+  ],
   "description": "India's first UbuCon — community conference for Ubuntu/Linux/open-source enthusiasts and developers.",
   "url": "https://india.fluttercon.dev/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-04",
   "last_seen": "2026-10-07",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-07"
  },
  {
+  "id": "bengaluru-tech-summit-2026-11",
   "name": "Bengaluru Tech Summit 2026",
   "start_date": "2026-11-17",
   "end_date": "2026-11-19",
   "city": "Bangalore",
   "venue": "BIEC, Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "29th edition of Karnataka government's major tech summit, themed \"AI & Beyond.\"",
   "url": "https://www.bengalurutechsummit.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-12",
-  "times_listed": 24,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "singapore-fintech-festival-2026-11",
   "name": "Singapore FinTech Festival 2026",
   "start_date": "2026-11-18",
   "end_date": "2026-11-20",
   "city": "Singapore",
   "venue": "Singapore EXPO, Singapore",
   "tier": "flagship",
+  "topics": [
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "The world's largest fintech festival; 70,000+ expected attendees.",
   "url": "https://www.fintechfestival.sg/join-sff2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-12",
-  "times_listed": 24,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "grpconf-india-2026-11",
   "name": "gRPConf India 2026",
   "start_date": "2026-11-18",
   "end_date": "2026-11-18",
   "city": "Bangalore",
   "venue": "Google Campus, Bengaluru",
   "tier": "regular",
+  "topics": [
+   "dev-tools",
+   "open-source",
+   "general-tech"
+  ],
   "description": "Single-day community conference on gRPC and microservices with hands-on code labs.",
   "url": "https://sessionize.com/grpconf-india-2026/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-04",
   "last_seen": "2026-10-04",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-04"
  },
  {
+  "id": "women-in-tech-chennai-outgeekwomen-2026-11",
   "name": "Women in Tech Chennai - OutGeekWomen",
   "start_date": "2026-11-19",
   "end_date": "2026-11-19",
   "city": "Chennai",
   "venue": "Chennai (venue TBA)",
   "tier": "regular",
+  "topics": [
+   "dev-tools"
+  ],
   "description": "(SciPy India 2026, Dec 19–20, is flagship-tier — see top section)",
   "url": "https://www.eventbrite.com/e/women-in-tech-chennai-outgeekwomen-tickets-1330299414359",
+  "cfp_deadline": null,
   "first_seen": "2026-10-06",
   "last_seen": "2026-10-12",
-  "times_listed": 4,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "bharat-ai-innovation-2026-11",
   "name": "Bharat AI Innovation 2026",
   "start_date": "2026-11-20",
   "end_date": "2026-11-21",
   "city": "Mumbai",
   "venue": "WTC Mumbai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "India-focused B2B AI conference and Gen AI expo, 5,000+ attendees expected, backing from Google, Microsoft, Accenture, PwC and MeitY.",
   "url": "https://bharataiinnovation.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-16",
   "last_seen": "2026-09-25",
-  "times_listed": 7,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-25"
  },
  {
+  "id": "droidcon-india-2026-11",
   "name": "droidcon India 2026",
   "start_date": "2026-11-20",
   "end_date": "2026-11-20",
   "city": "Bangalore",
   "venue": "Conrad Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "dev-tools",
+   "general-tech"
+  ],
   "description": "Flagship India Android developer conference.",
   "url": "https://india.droidcon.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-10-12",
-  "times_listed": 18,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "et-devnext-techgig-2026-11",
   "name": "ET DevNext 2026 (TechGig)",
   "start_date": "2026-11-21",
   "end_date": "2026-11-21",
   "city": "Hyderabad",
   "venue": "The Park, Hyderabad",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "dev-tools",
+   "general-tech"
+  ],
   "description": "AI & developer conference.",
   "url": "https://techgig.com/devnext",
+  "cfp_deadline": null,
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "rubyconf-india-2026-11",
   "name": "RubyConf India 2026",
   "start_date": "2026-11-21",
   "end_date": "2026-11-21",
   "city": "Hyderabad",
   "venue": "Hyderabad, India",
   "tier": "regular",
+  "topics": [
+   "dev-tools",
+   "general-tech"
+  ],
   "description": "India's national Ruby/Rails conference, part of the global RubyConf series.",
   "url": "https://www.rubyevents.org/events/rubyconf-india-2026",
+  "cfp_deadline": null,
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-09",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-09"
  },
  {
+  "id": "wordcamp-bengaluru-2026-11",
   "name": "WordCamp Bengaluru 2026",
   "start_date": "2026-11-21",
   "end_date": "2026-11-22",
   "city": "Bangalore",
   "venue": "St Joseph's Boys' High School / Bangalore International Centre",
   "tier": "regular",
+  "topics": [
+   "dev-tools",
+   "open-source",
+   "general-tech"
+  ],
   "description": "(Open Source India, Bengaluru Tech Summit, droidcon India, Civo Navigate India, WeAreDevelopers World Congress India are flagship-tier — see top section)",
   "url": "https://bengaluru.wordcamp.org/2026/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-07",
   "last_seen": "2026-10-12",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "fluttercon-india-2026-11",
   "name": "fluttercon India 2026",
   "start_date": "2026-11-21",
   "end_date": "2026-11-21",
   "city": "Bangalore",
   "venue": "Conrad Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "dev-tools",
+   "general-tech"
+  ],
   "description": "International Flutter/Dart developer conference, sister event to droidcon India.",
   "url": "https://conferenceindex.org/event/fluttercon-2026-november-bengaluru-in",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-10-12",
-  "times_listed": 6,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "civo-navigate-india-2026-11",
   "name": "Civo Navigate India 2026",
   "start_date": "2026-11-24",
   "end_date": "2026-11-24",
   "city": "Bangalore",
   "venue": "Sheraton Grand Whitefield, Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "general-tech"
+  ],
   "description": "cloud-infrastructure conference on AI and data sovereignty.",
   "url": "https://www.civo.com/navigate/india/2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-19",
   "last_seen": "2026-10-12",
-  "times_listed": 10,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "doers-summit-dubai-2026-11",
   "name": "Doers Summit Dubai 2026",
   "start_date": "2026-11-25",
   "end_date": "2026-11-26",
   "city": "Dubai",
   "venue": "Dubai Digital Park, Dubai Silicon Oasis",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "startups-vc",
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "Global founders/operators/investors summit, 4,000+ attendees from 115 countries, AI/deeptech/fintech tracks.",
   "url": "https://mena.entrepreneur.com/technology/dubai-to-host-second-middle-east-edition-of-doers-summit-dubai-2026-from-24-26-november",
+  "cfp_deadline": null,
   "first_seen": "2026-09-23",
   "last_seen": "2026-10-12",
-  "times_listed": 4,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "wearedevelopers-conference-india-2026-11",
   "name": "WeAreDevelopers Conference India 2026",
   "start_date": "2026-11-25",
   "end_date": "2026-11-26",
   "city": "Bangalore",
   "venue": "BIEC Hall 2, Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "dev-tools",
+   "general-tech"
+  ],
   "description": "Inaugural India edition of the world's largest developer conference brand, 3,000+ attendees expected.",
   "url": "https://www.wearedevelopers.com/conference-india",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-12",
-  "times_listed": 12,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "devfest-singapore-2026-11",
   "name": "DevFest Singapore 2026",
   "start_date": "2026-11-28",
   "end_date": "2026-11-28",
   "city": "Singapore",
   "venue": "Google Developers Space, Singapore",
   "tier": "regular",
+  "topics": [
+   "ai",
+   "dev-tools",
+   "product"
+  ],
   "description": "Production multi-agent systems.",
   "url": "https://foundercal.com/events/devfest-singapore-2026-architecting-for-the-agentic-era-316848180",
+  "cfp_deadline": null,
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "blockchain-life-2026-12",
   "name": "Blockchain Life 2026",
   "start_date": "2026-12-01",
   "end_date": "2026-12-02",
   "city": "Dubai",
   "venue": "Dubai",
   "tier": "regular",
+  "topics": [
+   "web3-fintech"
+  ],
   "description": "Self-described world's largest crypto/Web3 event, ~15,000 attendees from 130 countries.",
   "url": "https://blockchain-life.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-04",
   "last_seen": "2026-10-04",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-04"
  },
  {
+  "id": "avar-2026-12",
   "name": "AVAR 2026",
   "start_date": "2026-12-02",
   "end_date": "2026-12-04",
   "city": "Hyderabad",
   "venue": "Hyderabad, India",
   "tier": "regular",
+  "topics": [
+   "security",
+   "general-tech"
+  ],
   "description": "29th Annual AVAR international cybersecurity conference — one of Asia's most established security research conferences, with major antivirus/security vendor participation.",
   "url": "https://events.aavar.org/cybersecurity-conference/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-09",
   "last_seen": "2026-10-09",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-09"
  },
  {
+  "id": "devfest-mumbai-2026-12",
   "name": "DevFest Mumbai 2026",
   "start_date": "2026-12-05",
   "end_date": "2026-12-05",
   "city": "Mumbai",
   "venue": "Ballard Pier, Mumbai",
   "tier": "flagship",
+  "topics": [
+   "cloud-devops",
+   "dev-tools",
+   "general-tech"
+  ],
   "description": "Large GDG-run (GDG MAD + GDG Cloud Mumbai) developer conference.",
   "url": "https://conferencegrid.com/events/devfest-mumbai-2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-10-12",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "gitex-global-2026-12",
   "name": "GITEX Global 2026",
   "start_date": "2026-12-07",
   "end_date": "2026-12-11",
   "city": "Dubai",
   "venue": "Expo City Dubai",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "cloud-devops",
+   "startups-vc",
+   "general-tech"
+  ],
   "description": "The region's mega tech show (46th edition) spanning AI, startups/VC, robotics and cloud tracks.",
   "url": "https://www.gitex.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-12",
-  "times_listed": 25,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "expand-north-star-2026-12",
   "name": "Expand North Star 2026",
   "start_date": "2026-12-08",
   "end_date": "2026-12-10",
   "city": "Dubai",
   "venue": "Expo City Dubai",
   "tier": "flagship",
+  "topics": [
+   "startups-vc",
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "GITEX's flagship startup/VC event, bringing together 2,000+ startups and global investors, running alongside GITEX Global.",
   "url": "https://www.gitex.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-09-15",
   "last_seen": "2026-10-12",
-  "times_listed": 14,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  },
  {
+  "id": "future-blockchain-summit-fdx-2026-12",
   "name": "Future Blockchain Summit (FDX) 2026",
   "start_date": "2026-12-08",
   "end_date": "2026-12-10",
   "city": "Dubai",
   "venue": "Co-located with GITEX, Dubai",
   "tier": "flagship",
+  "topics": [
+   "web3-fintech",
+   "general-tech"
+  ],
   "description": "Dedicated blockchain/Web3 summit held during GITEX week.",
   "url": "https://www.gitexfdx.com/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-03",
   "last_seen": "2026-10-03",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-03"
  },
  {
+  "id": "great-international-ai-native-summit-gains-2026-12",
   "name": "Great International AI Native Summit (GAINS) 2026",
   "start_date": "2026-12-09",
   "end_date": "2026-12-09",
   "city": "Bangalore",
   "venue": "Bengaluru",
   "tier": "flagship",
+  "topics": [
+   "ai",
+   "general-tech"
+  ],
   "description": "India's first engineering-first AI Engineering Conference, from the GIDS organizers.",
   "url": "https://konfhub.com/gains2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-18",
   "last_seen": "2026-09-22",
-  "times_listed": 2,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-09-22"
  },
  {
+  "id": "scipy-india-2026-12",
   "name": "SciPy India 2026",
   "start_date": "2026-12-19",
   "end_date": "2026-12-20",
   "city": "Chennai",
   "venue": "IIT Madras, Chennai",
   "tier": "flagship",
+  "topics": [
+   "dev-tools",
+   "open-source",
+   "general-tech"
+  ],
   "description": "14th edition of the internationally-branded scientific-computing/open-source Python conference, backed by the Python Software Foundation & FOSS United, returning after a 5-year hiatus.",
   "url": "https://fossunited.org/c/scipy-india/2026",
+  "cfp_deadline": null,
   "first_seen": "2026-09-23",
   "last_seen": "2026-10-07",
-  "times_listed": 4,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-07"
  },
  {
+  "id": "telangana-rising-global-summit-2026-12",
   "name": "Telangana Rising Global Summit 2026",
   "start_date": "2026-12-20",
   "end_date": "2026-12-20",
   "city": "Hyderabad",
   "venue": "Hyderabad",
   "tier": "flagship",
+  "topics": [
+   "general-tech"
+  ],
   "description": "Telangana government's annual flagship global investment summit, with strong GCC/tech industry participation.",
   "url": "https://www.siasat.com/telangana-gears-up-for-global-summit-in-december-2026-3519238/",
+  "cfp_deadline": null,
   "first_seen": "2026-10-10",
   "last_seen": "2026-10-10",
-  "times_listed": 1,
-  "cfp_deadline": null
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-10"
  },
  {
+  "id": "fossasia-summit-2027-03",
   "name": "FOSSASIA Summit 2027",
   "start_date": "2027-03-07",
   "end_date": "2027-03-09",
   "city": "Bangkok (outside the six cities)",
   "venue": "Bangkok",
   "tier": "flagship",
+  "topics": [
+   "open-source",
+   "general-tech"
+  ],
   "description": "Open-source summit; Call for Speakers & Projects open.",
   "url": "https://eventyay.com/fossasia/summit2027/cfp",
+  "cfp_deadline": "2026-11-30",
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-12",
-  "times_listed": 1,
-  "cfp_deadline": "2026-11-30"
+  "link_status": "ok",
+  "link_checked": "2026-10-12",
+  "date_verified": "2026-10-12"
  }
 ]
