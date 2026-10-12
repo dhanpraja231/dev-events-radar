@@ -1,0 +1,130 @@
+{
+ "checked_on": "2026-10-12",
+ "series": [
+  {
+   "series": "KubeCon + CloudNativeCon",
+   "edition_in_six_cities_known": true,
+   "notes": "KubeCon India 2026, Jun 18–19, Mumbai (passed); no edition in window"
+  },
+  {
+   "series": "AWS Summit / re:Invent",
+   "edition_in_six_cities_known": true,
+   "notes": "AWS Summit Dubai Sep 30, 2026 (passed); re:Invent Nov 30–Dec 4 Las Vegas (not in cities)"
+  },
+  {
+   "series": "AWS Community Day",
+   "edition_in_six_cities_known": true,
+   "notes": "AWS Community Day UAE, Oct 3, 2026 (passed)"
+  },
+  {
+   "series": "Google Cloud Next",
+   "edition_in_six_cities_known": false,
+   "notes": "No 2026 edition in the six cities found"
+  },
+  {
+   "series": "GDG DevFest",
+   "edition_in_six_cities_known": true,
+   "notes": "Chennai Oct 17, Dubai Oct 24, Hyderabad Oct 24, Singapore Nov 28, Mumbai Dec 5"
+  },
+  {
+   "series": "Google I/O Extended / Connect",
+   "edition_in_six_cities_known": false,
+   "notes": "Not found in window"
+  },
+  {
+   "series": "Microsoft Build / Ignite",
+   "edition_in_six_cities_known": true,
+   "notes": "Only Build //localhost Encore Chennai (Sep 26, passed); Ignite not in cities"
+  },
+  {
+   "series": "GitHub Universe",
+   "edition_in_six_cities_known": false,
+   "notes": "Oct 28–29, San Francisco (not in cities)"
+  },
+  {
+   "series": "DockerCon",
+   "edition_in_six_cities_known": false,
+   "notes": "Not found"
+  },
+  {
+   "series": "HashiConf",
+   "edition_in_six_cities_known": false,
+   "notes": "Not found"
+  },
+  {
+   "series": "droidcon",
+   "edition_in_six_cities_known": true,
+   "notes": "droidcon India Nov 20, Bengaluru"
+  },
+  {
+   "series": "fluttercon",
+   "edition_in_six_cities_known": true,
+   "notes": "fluttercon India Nov 21, Bengaluru"
+  },
+  {
+   "series": "PyCon India / PyCon APAC / PyConf Hyderabad",
+   "edition_in_six_cities_known": false,
+   "notes": "No in-window edition found; SciPy India Dec 19–20 Chennai listed"
+  },
+  {
+   "series": "JSConf India/Asia, React India, React Summit, React Conf",
+   "edition_in_six_cities_known": false,
+   "notes": "Not found in window"
+  },
+  {
+   "series": "FOSSASIA",
+   "edition_in_six_cities_known": true,
+   "notes": "OpenTechSummit India Nov 5 (Mumbai); FOSSASIA Summit 2027 Mar 7–9 Bangkok, CFP closes Nov 30, 2026"
+  },
+  {
+   "series": "Open Source India",
+   "edition_in_six_cities_known": true,
+   "notes": "OSI 2026 Oct 7–8, Bengaluru (passed)"
+  },
+  {
+   "series": "DevOpsDays",
+   "edition_in_six_cities_known": false,
+   "notes": "No city edition found in window"
+  },
+  {
+   "series": "QCon",
+   "edition_in_six_cities_known": false,
+   "notes": "Not found"
+  },
+  {
+   "series": "Web Summit / RISE / Slush / TechCrunch-adjacent",
+   "edition_in_six_cities_known": false,
+   "notes": "Not found in cities; Expand North Star Dec 8–10 Dubai and SWITCH Oct 27–29 Singapore are the closest analogues"
+  },
+  {
+   "series": "AI Engineer Summit-scale AI confs",
+   "edition_in_six_cities_known": true,
+   "notes": "Cypher (Oct 7–9 BLR, passed), Dubai AI Festival Oct 26–27, AI Engineering Summit SG Dec 3 (small)"
+  },
+  {
+   "series": "YC / startup demo days",
+   "edition_in_six_cities_known": false,
+   "notes": "No YC demo day in cities; Global Startup Summit Chennai Oct 31; TechSparks Oct 13–15 BLR"
+  },
+  {
+   "series": "WeAreDevelopers",
+   "edition_in_six_cities_known": true,
+   "notes": "WeAreDevelopers India Nov 25–26, Bengaluru"
+  },
+  {
+   "series": "GITEX / Expand North Star",
+   "edition_in_six_cities_known": true,
+   "notes": "Dec 7–11 / Dec 8–10, Expo City Dubai"
+  },
+  {
+   "series": "Bengaluru Tech Summit",
+   "edition_in_six_cities_known": true,
+   "notes": "Nov 17–19, BIEC"
+  },
+  {
+   "series": "Civo Navigate",
+   "edition_in_six_cities_known": true,
+   "notes": "Nov 24, Bengaluru"
+  }
+ ]
+}
