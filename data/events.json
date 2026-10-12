@@ -237,7 +237,7 @@
   "end_date": "2026-09-25",
   "city": "Bangalore",
   "venue": "Bengaluru",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "dev-tools",
    "startups-vc",
@@ -323,7 +323,7 @@
   "end_date": "2026-09-27",
   "city": "Bangalore",
   "venue": "NIMHANS Convention Centre",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "open-source"
   ],
@@ -343,7 +343,7 @@
   "end_date": "2026-09-26",
   "city": "Bangalore",
   "venue": "Samarthanam Auditorium, Bangalore",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "open-source",
@@ -471,7 +471,7 @@
   "end_date": "2026-09-30",
   "city": "Mumbai",
   "venue": "JW Marriott Mumbai Sahar",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "cloud-devops",
@@ -513,7 +513,7 @@
   "end_date": "2026-10-01",
   "city": "Chennai",
   "venue": "Anna University, Chennai (hosted by NSRCEL, IIM Bangalore)",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "startups-vc"
   ],
@@ -553,7 +553,7 @@
   "end_date": "2026-10-02",
   "city": "Dubai",
   "venue": "Sheraton Grand Hotel, Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "general-tech"
   ],
@@ -573,7 +573,7 @@
   "end_date": "2026-10-03",
   "city": "Dubai",
   "venue": "Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "cloud-devops",
    "open-source",
@@ -595,7 +595,7 @@
   "end_date": "2026-10-04",
   "city": "Bangalore",
   "venue": "HSR Layout, Bengaluru",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "dev-tools"
@@ -616,7 +616,7 @@
   "end_date": "2026-10-05",
   "city": "Dubai",
   "venue": "Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "open-source"
@@ -657,7 +657,7 @@
   "end_date": "2026-10-07",
   "city": "",
   "venue": "ADNEC, Abu Dhabi (UAE-wide)",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai"
   ],
@@ -849,7 +849,7 @@
   "end_date": "2026-10-10",
   "city": "Chennai",
   "venue": "JPOWER4 Technologies, Perumbakkam, Chennai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "dev-tools",
    "open-source"
@@ -891,7 +891,7 @@
   "end_date": "2026-10-10",
   "city": "Chennai",
   "venue": "Chennai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai"
   ],
@@ -931,7 +931,7 @@
   "end_date": "2026-10-10",
   "city": "Chennai",
   "venue": "Chennai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "dev-tools"
@@ -994,7 +994,7 @@
   "end_date": "2026-10-13",
   "city": "Mumbai",
   "venue": "Mumbai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "cloud-devops"
@@ -1015,7 +1015,7 @@
   "end_date": "2026-10-15",
   "city": "Dubai",
   "venue": "Ritz-Carlton DIFC, Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "startups-vc",
    "general-tech"
@@ -1079,7 +1079,7 @@
   "end_date": "2026-10-15",
   "city": "Dubai",
   "venue": "Dtec, Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "cloud-devops",
@@ -1102,7 +1102,7 @@
   "end_date": "2026-10-15",
   "city": "Dubai",
   "venue": "JW Marriott Marina, Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "general-tech"
@@ -1144,7 +1144,7 @@
   "end_date": "2026-10-15",
   "city": "Dubai",
   "venue": "in5 Tech, Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "product"
@@ -1227,7 +1227,7 @@
   "end_date": "2026-10-17",
   "city": "Chennai",
   "venue": "IITM Research Park, Chennai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "dev-tools",
@@ -1250,7 +1250,7 @@
   "end_date": "2026-10-20",
   "city": "Chennai",
   "venue": "SIMATS Engineering, Chennai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "dev-tools",
@@ -1294,7 +1294,7 @@
   "end_date": "2026-10-22",
   "city": "Dubai",
   "venue": "Crowne Plaza Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "general-tech"
@@ -1379,7 +1379,7 @@
   "end_date": "2026-10-24",
   "city": "Hyderabad",
   "venue": "JRC Conventions, Jubilee Hills, Hyderabad",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "cloud-devops",
@@ -1402,7 +1402,7 @@
   "end_date": "2026-10-24",
   "city": "Dubai",
   "venue": "Heriot-Watt University, Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "cloud-devops",
@@ -1469,7 +1469,7 @@
   "end_date": "2026-10-27",
   "city": "Dubai",
   "venue": "Grand Hyatt Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "cloud-devops",
    "general-tech"
@@ -1662,7 +1662,7 @@
   "end_date": "2026-11-02",
   "city": "Mumbai",
   "venue": "Fairmont Mumbai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "web3-fintech",
    "general-tech"
@@ -1812,7 +1812,7 @@
   "end_date": "2026-11-05",
   "city": "Dubai",
   "venue": "Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "security",
@@ -1900,7 +1900,7 @@
   "end_date": "2026-11-12",
   "city": "Dubai",
   "venue": "Dubai World Trade Centre",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "cloud-devops",
@@ -2158,7 +2158,7 @@
   "end_date": "2026-11-21",
   "city": "Bangalore",
   "venue": "Conrad Bengaluru",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "dev-tools",
    "general-tech"
@@ -2179,7 +2179,7 @@
   "end_date": "2026-11-24",
   "city": "Bangalore",
   "venue": "Sheraton Grand Whitefield, Bengaluru",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "cloud-devops",
@@ -2308,7 +2308,7 @@
   "end_date": "2026-12-05",
   "city": "Mumbai",
   "venue": "Ballard Pier, Mumbai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "cloud-devops",
    "dev-tools",
@@ -2375,7 +2375,7 @@
   "end_date": "2026-12-10",
   "city": "Dubai",
   "venue": "Co-located with GITEX, Dubai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "web3-fintech",
    "general-tech"
@@ -2396,7 +2396,7 @@
   "end_date": "2026-12-09",
   "city": "Bangalore",
   "venue": "Bengaluru",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "ai",
    "general-tech"
@@ -2417,7 +2417,7 @@
   "end_date": "2026-12-20",
   "city": "Chennai",
   "venue": "IIT Madras, Chennai",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "dev-tools",
    "open-source",
@@ -2439,7 +2439,7 @@
   "end_date": "2026-12-20",
   "city": "Hyderabad",
   "venue": "Hyderabad",
-  "tier": "flagship",
+  "tier": "regular",
   "topics": [
    "general-tech"
   ],
